@@ -1,0 +1,19 @@
+2023-04-02 23:47:01.030286 - Initialized conversion of CBT365
+2023-04-02 23:47:01.158701 - Received CBT.V504.FILE365.PDS from FILE365.XMI 
+2023-04-02 23:47:01.161382 - Found $$$$DOC.txt (text/plain) in CBT.V504.FILE365.PDS, moved to PDS/$$$$DOC
+2023-04-02 23:47:01.162624 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE365.PDS, moved to PDS/$$$#DATE
+2023-04-02 23:47:01.164722 - Found $$$INTRO.eml (message/rfc822), moved to CBT365/$$$INTRO.eml
+2023-04-02 23:47:01.165807 - Found $$$NOTE.txt (text/plain) in CBT.V504.FILE365.PDS, moved to PDS/$$$NOTE
+2023-04-02 23:47:01.166907 - Found $$OSTAR.txt (text/plain) in CBT.V504.FILE365.PDS, moved to PDS/$$OSTAR
+2023-04-02 23:47:01.168059 - Found $$OSTRIP.txt (text/plain) in CBT.V504.FILE365.PDS, moved to PDS/$$OSTRIP
+2023-04-02 23:47:01.169136 - Found $README.txt (text/plain) in CBT.V504.FILE365.PDS, moved to PDS/$README
+2023-04-02 23:47:01.170123 - Found $TRSMAIN.txt (text/plain) in CBT.V504.FILE365.PDS, moved to PDS/$TRSMAIN
+2023-04-02 23:47:01.171082 - Found $TRSPACK.jcl (text/plain) in CBT.V504.FILE365.PDS, moved to PDS/$TRSPACK
+2023-04-02 23:47:01.172145 - Found $TRSUNPK.jcl (text/plain) in CBT.V504.FILE365.PDS, moved to PDS/$TRSUNPK
+2023-04-02 23:47:01.173197 - Found @FILE365.txt (text/plain) in CBT.V504.FILE365.PDS, moved to PDS/@FILE365
+2023-04-02 23:47:01.174213 - Found OSTAREDC.txt (text/plain) in CBT.V504.FILE365.PDS, moved to PDS/OSTAREDC
+2023-04-02 23:47:01.175203 - Found OSTARREC.rexx (text/plain) in CBT.V504.FILE365.PDS, moved to PDS/OSTARREC
+2023-04-02 23:47:01.176269 - Found OSTARXMT.rexx (text/plain) in CBT.V504.FILE365.PDS, moved to PDS/OSTARXMT
+2023-04-02 23:47:01.177329 - Found OSTRIP.txt (text/plain) in CBT.V504.FILE365.PDS, moved to PDS/OSTRIP
+2023-04-02 23:47:01.178676 - Found OSTRIP$.jcl (text/plain) in CBT.V504.FILE365.PDS, moved to PDS/OSTRIP$
+2023-04-02 23:47:01.179834 - Found OSTRIP#.jcl (text/plain) in CBT.V504.FILE365.PDS, moved to PDS/OSTRIP#
